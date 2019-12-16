@@ -1,0 +1,41 @@
+.about-us{
+    background-color: #f2f2f2;
+}
+
+.about-us h1{
+    text-align: center;
+    font-size: 38px;
+    font-weight: 200;
+    margin: 3%;
+    font-family: Courier New;
+}
+
+ul.facts-ul li, ul.investor-ul li {
+    list-style-type: none;
+    width: 48%;
+    float: left;
+    margin: 0.5%;
+    border: 1px solid #ddd;
+    padding: 1%;
+}
+
+ul.facts-ul, ul.investor-ul {
+    padding: 0;
+}
+
+.facts-information, .investor-relations {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.facts h2, .investor h2 {
+    font-family: serif;
+    display: grid;
+    width: 80%;
+    padding: 2% 0 0;
+}
+
+.facts, .investor {
+    width: 80%;
+    margin: 0 auto;
+}

@@ -1,0 +1,48 @@
+.support h1{
+    text-align: center;
+    font-size: 38px;
+    font-weight: 200;
+    margin: 3%;
+    font-family: Courier New;
+}
+
+// .support{
+//     background-color: #f2f2f2;
+// }
+
+.products-by-category{
+    width: 80%;
+    margin: 0 auto;
+    font-family: Courier New;
+}
+
+.products-by-category h2{
+    font-family: initial;
+}
+
+.half-ul li {
+    LIST-STYLE-TYPE: none;
+    border: 1px solid #ddd;
+    margin: 1%;
+    padding: 2%;
+    font-size: 16px;
+    font-weight: 400;
+    color: #007fab;
+    font-family: serif;
+    background-color: #ddd;
+}
+
+ul.half-ul {
+    padding: 0;
+}
+
+.half {
+    width: 50%;
+    FLOAT: LEFT;
+}
+
+.category {
+    width: 100%;
+    margin: 0 auto;
+    display: inline-block;
+}

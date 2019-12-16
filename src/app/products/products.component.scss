@@ -1,0 +1,53 @@
+.products{
+    background-color: #f2f2f2;
+}
+
+.products h1{
+    text-align: center;
+    font-size: 38px;
+    font-weight: 200;
+    margin: 3%;
+    font-family: Courier New;
+}
+
+.products p {
+    width: 80%;
+    margin: 0 auto;
+}
+.products-by-technology{
+    width: 80%;
+    margin: 0 auto;
+    font-family: Courier New;
+}
+
+.products-by-technology h2{
+    font-family: initial;
+}
+
+.products-div ul li {
+    list-style-type: none;
+    color: #005073;
+    font-size: 16px;
+    margin: 0.5%;
+}
+.products-div ul {
+    padding: 0;
+}
+.products-div h2 {
+    font-family: serif;
+    color: #005073;
+}
+.products-div img {
+    width: 100%;
+    margin: 0 auto;
+    border-radius: 5%;
+}
+.products-div {
+    width: 31%;
+    display: inline-grid;
+    margin: 1%;
+}
+.row.three-products {
+    margin: 0 auto;
+    width: 100%;
+}

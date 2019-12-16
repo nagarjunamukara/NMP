@@ -1,0 +1,59 @@
+.search-div {
+    border-right: 1px solid #cfcfcf;
+}
+
+ul.home-quicktask-ul li span {
+    background: url(https://www.cisco.com/c/dam/assets/dmr/homepage/quicktasks/quick-task.svg) no-repeat;
+    width: 20%;
+    line-height: 10;
+    height: 30px;
+    text-align: center;
+    float: left;
+    left: 55px;
+    position: relative;
+    top: 26px;
+}
+
+ul li {
+    list-style-type: none;
+    float: left;
+    width: 15%;
+    line-height: 10;
+}
+
+.quicktask {
+    background-color: #0d274d;
+    color: #fff;
+}
+
+.home-quicktask {
+    width: 80%;
+    margin: 0 auto;
+}
+
+ul.home-quicktask-ul {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+}
+
+ul.home-quicktask-ul li a {
+    color: #fff;
+    font-family: monospace;
+}
+
+.this-week h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.this-week {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.this-week p {
+    text-align: center;
+    font-size: 16px;
+    font-family: monospace;
+}

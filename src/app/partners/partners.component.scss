@@ -1,0 +1,38 @@
+.partner h1{
+    text-align: center;
+    font-size: 38px;
+    font-weight: 200;
+    margin: 3%;
+    font-family: Courier New;
+}
+
+.value-added img, .providers img, .developers img, .integrators img, .registrationhelp img {
+    width: 100%;
+}
+
+.value-added a, .providers a, .developers a, .integrators a, .registrationhelp a {
+    color: #007493;
+    font-weight: 300;
+    font-size: 28px;
+    text-align: left;
+    font-family: Verdana;
+}
+.value-added p, .providers p, .developers p, .integrators p, .registrationhelp p {
+    margin-top: 5%;
+}
+
+.value-added a:active, .value-added a:hover, .providers a:active, 
+.providers a:hover, .developers a:active, .developers a:hover, 
+.integrators a:active, .integrators a:hover, .registrationhelp a:active, .registrationhelp a:hover {
+    color: #6f53bc;
+}
+
+.partner-divone, .partner-divtwo{
+    width: 100%;
+    margin: 1% auto;
+    display: inline-block;
+}
+
+.partner{
+    background-color: #f2f2f2;
+}

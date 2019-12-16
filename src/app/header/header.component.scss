@@ -1,0 +1,27 @@
+.navbar-nav>li>a {
+    color: #dddddd;
+}
+
+.navbar-nav>li {
+    border-right: 1px solid darkgray;
+    width: 10%;
+}
+.nav ul{
+    width: 100%;
+    text-align: center;
+}
+.navbar .container{
+    width: 100%;
+}
+.nav{
+    background-color: #055A92;
+    width: 100%;
+}
+.navbar-nav>li:nth-child(5){
+    border-right: 0px;
+}   
+
+.nav>li>a:focus, .nav>li>a:hover {
+    color: #23527c;
+    background-color: #00bceb;
+}

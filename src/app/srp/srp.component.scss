@@ -1,0 +1,51 @@
+.dataset-container-inner-divone img {
+    width: 25%;
+    position: relative;
+    left: 5%;
+}
+.dataset-container-inner-divtwo {
+    text-align: right;
+    position: relative;
+    right: 5%;
+}
+
+.dataset-container-inner-divtwo h3 {
+    display: inline-block;
+}
+.dataset-container-inner-divtwo img {
+    display: inline-block;
+    width: 5%;
+    position: relative;
+    left: 2%;
+    margin-bottom: 3%;
+}
+.registrationformTable{
+    width : 80%;
+    margin: 0 auto; 
+    padding-bottom: 2%;
+    display: flow-root;
+}
+table {
+    width: 100%;
+    border: 1px solid gray;
+}  
+th.mat-sort-header-sorted {
+color: black;
+}
+.data-table{
+    font-size: 60px;
+    font-family: arial;
+}
+.search-analytics {
+    width: 80%;
+    margin: 0 auto;
+    display: block;
+}
+tr.mat-header-row {
+    height: 56px;
+    background-color: gray;
+}
+tr:nth-child(even) {background-color: #f2f2f2;}
+h4{
+    padding: 0 4%;
+}
